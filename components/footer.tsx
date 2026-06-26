@@ -6,10 +6,6 @@ export default function Footer() {
       <small className="mb-2 block text-xs">
         &copy; 2026 Minahm. All rights reserved.
       </small>
-      {/* <p className="text-xs">
-        <span className="font-semibold">Thanks for visiting.</span>
-        Feel free to explore my projects or get in touch for collaboration.
-      </p> */}
       <span className="font-semibold">Always learning.</span> Continuously improving my skills and building modern web applications.
     </footer>
   );

@@ -1,10 +1,10 @@
 import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
-import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import aaspaasImg from "@/public/aas-paas-image.png";
 import pyrocastImg from "@/public/Pyrocast-image.png";
 import simiImg from "@/public/simi-image.png";
+import { FaAngular } from "react-icons/fa";
 
 export const links = [
   {
@@ -54,7 +54,7 @@ export const experiencesData = [
     title: "Full-Stack Developer",
     location: "WAMTSOL IT Solutions",
     description:"Developed and maintained scalable web applications using Angular and Node.js. Built RESTful APIs, implemented microservices, integrated AWS services, and optimized application performance.",
-    icon: React.createElement(FaReact),
+    icon: React.createElement(FaAngular),
     date: "2024 - 2026",
   },
 ] as const;
