@@ -78,7 +78,7 @@ export const projectsData = [
         title: "Simi Reizen",
         description:
           "Contributed to the development of a travel booking platform, building responsive features, integrating APIs, and enhancing the user experience.",
-        tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+        tags: ["laravel", "php", "my-SQL", "javascript", "bootstrap"],
         imageUrl: simiImg,
       },
 ] as const;
