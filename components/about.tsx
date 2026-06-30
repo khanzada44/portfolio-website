@@ -20,7 +20,7 @@ export default function About() {
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
         I am a passionate <span className="font-medium">Full-Stack Developer</span> with over{" "}
-        <span className="font-medium">4 years of experience</span>. I enjoy building
+        <span className="font-medium">4+ Years of experience</span>. I enjoy building
         modern web applications and finding practical solutions to complex problems.
         My goal is to create products that are{" "}
         <span className="font-medium">
