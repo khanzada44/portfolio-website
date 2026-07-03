@@ -17,6 +17,7 @@ export default function About() {
       transition={{ delay: 0.175 }}
       id="about"
     >
+      
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
         I am a passionate <span className="font-medium">Full-Stack Developer</span> with over{" "}
